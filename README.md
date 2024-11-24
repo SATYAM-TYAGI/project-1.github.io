@@ -1,4 +1,3 @@
-# satyam-tyagi.github.io
 ## A Quiz Application with a GUI using tkinter
 # Overview
 The Python Debugging Quiz Application is an interactive quiz that tests your knowledge of Python debugging and problem-solving. The application features multiple-choice questions on various debugging scenarios and Python errors.
